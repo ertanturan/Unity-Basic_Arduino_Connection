@@ -39,7 +39,7 @@ serialPortCommunication.SendCustomData("EXAMPLE DATA")
     .
     .
     
- 	void Update ()
+ void Update ()
     {
         string receivedData;
         
