@@ -13,5 +13,6 @@ A basic serial port communication coding-example to communicate between arduino 
 
 1. Add `SerialPortCommunication.cs` to a gameobject in your scene.
 2. Configure the Port and baudrate according to your arduino.
-![Serial Port Communication](/GithubImages/SerialPortCommunication.png)
 3. Press play and you should see the values that are being sent by the arduino through the Serial Port.
+
+![Serial Port Communication](/GithubImages/SerialPortCommunication.png)
