@@ -40,13 +40,13 @@ serialPortCommunication.SendCustomData("EXAMPLE DATA")
     .
     
  	void Update ()
-    {
-        string receivedData;
-        
-        while (c.GetReceivedString(out receivedData))
         {
-                Debug.Log("Received Data : " + receivedData);
+            string receivedData;
+        
+            while (c.GetReceivedString(out receivedData))
+            {
+                    Debug.Log("Received Data : " + receivedData);
+            }
         }
-    }
 
 ```
