@@ -3,7 +3,7 @@ A basic serial port communication coding-example to communicate between arduino 
 
 ## Import
 
-1. Go to [release](https://github.com/ertanturan/Unity-Screenshot-Tool/releases) page.
+1. Go to [release](https://github.com/ertanturan/Unity-Basic_Arduino_Connection/releases) page.
 2. Download the lates release of the package.
 3. Import it to your unity project.
 
